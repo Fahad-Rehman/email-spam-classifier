@@ -30,9 +30,8 @@ data/ham/
 ```
 Each folder should contain .txt email files.
 
-You can download a similar dataset here:
+Download the Enron2 dataset from the website:
 https://www2.aueb.gr/users/ion/data/enron-spam
-Download the Enron2 file from that webpage
 ### 4. Train the model
 ```bash
 python train_text_model.py
@@ -68,4 +67,3 @@ This project is open-source under the MIT License.
 ## Author
 
 Fahad Khatri
-Pakistan
