@@ -31,7 +31,7 @@ data/ham/
 Each folder should contain .txt email files.
 
 You can download a similar dataset here:
-https://www2.aueb.gr/users/ion/data/enron-spam/
+https://www2.aueb.gr/users/ion/data/enron-spam
 Download the Enron2 file from that webpage
 ### 4. Train the model
 ```bash
