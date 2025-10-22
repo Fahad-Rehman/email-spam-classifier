@@ -1,0 +1,23 @@
+# Ignore data and large files
+data/
+*.csv
+*.zip
+*.txt
+
+# Ignore model artifacts
+model/*.pkl
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit cache
+.streamlit/
